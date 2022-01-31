@@ -1,2 +1,2 @@
-# intro_to_python
-Introductory Python code for Business &amp; Machine Learning
+# Introduction t Python
+Introductory Python Code for Business &amp; Machine Learning
