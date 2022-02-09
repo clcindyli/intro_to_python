@@ -1,9 +1,9 @@
 # Introduction to Python
-Introductory Python Code for Business &amp; Machine Learning
+Introductory Python Code for Business Analytics &amp; Machine Learning
 
-Introductory code for basic beginner Python
+# Introductory code for basic beginner Python
 
-# Intro to Variables
+### Intro to Variables
 
 - Simple types of variables
 - Printing & f-strings
@@ -13,7 +13,7 @@ Introductory code for basic beginner Python
 - Random Function
 - Example application
 
-# Intro to Datatypes, functions, loops
+### Intro to Datatypes, functions, loops
 - Lists
 - Dictionaries 
 - Boolean variables & logic
@@ -21,7 +21,7 @@ Introductory code for basic beginner Python
 - Loops
 - Brackets summary
 
-# Intro to Pandas 
+### Intro to Pandas 
 - Import data
 - Exploring Dataframes
 - Columns: Selecting & Renaming
@@ -33,8 +33,8 @@ Introductory code for basic beginner Python
 - Copying to a new dataframe
 - Plotting (regular & using Seaborn)
 
-Python for simple business analysis (cross-tabs, regressions, simple data manipulation, etc.)
+# Python for simple business analysis (cross-tabs, regressions, simple data manipulation, etc.)
 
 
 
-Python for Basic Machine Learning (supervised & unsupervised methods)
+# Python for Basic Machine Learning (supervised & unsupervised methods)
