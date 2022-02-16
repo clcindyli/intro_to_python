@@ -1,5 +1,5 @@
 # Introduction to Python
-Introductory Python Code for Business Analytics &amp; Machine Learning
+Introductory Python Code for Beginners and Simple Business Analytics 
 
 # Introductory code for basic beginner Python
 
@@ -25,16 +25,26 @@ Introductory Python Code for Business Analytics &amp; Machine Learning
 - Import data
 - Exploring Dataframes
 - Columns: Selecting & Renaming
-- Exporting Data
 - Running functions on columns
 - Adding and removing columns
 - Selecting rows
-- Searching through text
 - Copying to a new dataframe
-- Plotting (regular & using Seaborn)
+- Exporting Data
 
-# Python for simple business analysis (cross-tabs, regressions, simple data manipulation, etc.)
+# Python for simple business analysis (basic exploration, regressions & models, simple data manipulation, etc.)
+
+### Basic Analysis
+- Plotting
+-   Plotting with Seaborn
+- Value-Counts
+- Cross-tabs
+
+### Basic Models
+- Linear Regression (OLS)
+- Logistic Regression (Logit)
+
+## Playing with Data
+- Re-coding variables
+- 
 
 
-
-# Python for Basic Machine Learning (supervised & unsupervised methods)
