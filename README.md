@@ -36,15 +36,15 @@ Introductory Python Code for Beginners and Simple Business Analytics
 ### Basic Analysis
 - Plotting
 -   Plotting with Seaborn
+- Data Summary
 - Value-Counts
 - Cross-tabs
 
-### Basic Models
+### Playing with Data & Basic Models
+- Re-coding variables
+- Bin data
 - Linear Regression (OLS)
 - Logistic Regression (Logit)
 
-## Playing with Data
-- Re-coding variables
-- 
 
 
