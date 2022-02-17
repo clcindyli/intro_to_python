@@ -40,6 +40,7 @@ Introductory Python Code for Beginners and Simple Business Analytics
 - Cross-tabs
 
 ### Playing with Data & Basic Models
+- Missing Data
 - Re-coding variables
 - Binning Data
 - Linear Regression (OLS)
