@@ -43,6 +43,7 @@ Introductory Python Code for Beginners and Simple Business Analytics
 - Missing Data
 - Re-coding variables
 - Binning Data
+- Dummy Variables
 - Linear Regression (OLS)
 - Logistic Regression (Logit)
 
